@@ -8,4 +8,5 @@ all token will be available when you apply for line bot API
 
 # usage
 just forward all sms content to http://localhost/sms.php?value=true&text=[SMS content]&from=[Contact in SMS]
+
 I've add parameter value=true to prevent false positive from search engine when there are bots access to URL.
